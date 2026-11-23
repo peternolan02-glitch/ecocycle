@@ -1,0 +1,12 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
+
+# Data files created at runtime
+data/
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+*.class
